@@ -4,4 +4,4 @@ To chat with the bot:
 -> clone the repo
 -> pip install -r "requirements.txt"
 -> python load.py
--> chainlit run app.py (Add a -w flag for updates)
+-> chainlit run model.py (Add a -w flag for updates)
